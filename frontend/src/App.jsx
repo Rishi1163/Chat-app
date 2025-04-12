@@ -9,7 +9,6 @@ import ProfilePage from './pages/ProfilePage'
 import { useAuthStore } from './store/useAuthStore'
 import {Loader} from 'lucide-react'
 import { Toaster } from 'sonner'
-import Sample from './pages/Sample'
 import { useThemeStore } from './store/useThemeStore'
 
 function App() {
